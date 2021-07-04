@@ -7,6 +7,7 @@
     padding-left: 10px;
     padding-top: 10px;
     
+    
 }
 header{
     background-color: rgba(0, 0, 0, 0.219);
@@ -84,4 +85,70 @@ li a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
+
+
+
+.about{
+    position: relative;
+    height: 700px;
+    width: 100%;
+    background-image: url("tb.jpg");
+    background-repeat: no-repeat;
+
+    background-position: cover;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+   
+    color: whitesmoke;
+    padding-top: 150px;
+
+}
+.s{
+    background-color: black;
+    position: relative;
+    height: 500px;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px rgba(235, 53, 7, 0.733);
+    text-align: center;
+    
+
+}
+.s1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.s2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.s3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+#fq{
+    font-weight: 800;
+    padding: 5%;
+}
+
+#fq{
+    font-weight: 800;
+    padding: 5%;
+}
+#fq{
+    font-weight: 800;
+    padding: 5%;
+}
+
 
